@@ -1,0 +1,14 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anas momin",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-creator-node": "^2.3.5"
+  }
+}
